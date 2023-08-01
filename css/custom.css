@@ -584,7 +584,7 @@ div#archive {
     position: fixed;
     /* 指定位置 */
     left: 10px;
-    bottom: 10px;
+    bottom: 80px;
     z-index: 1919810;
 }
 
@@ -698,14 +698,14 @@ div#archive {
 
 /* 个人信息卡片背景图 */
 [data-theme="light"] #aside-content>.card-widget.card-info {
-    background-image: url(https://s2.loli.net/2023/07/29/UbOtyKoJ3fDwdTL.png);
+    background-image: url(https://cdn.staticaly.com/gh/SMYB5431/markdown-picgo@main/img/2023/79.jpg);
     background-repeat: no-repeat;
     background-attachment: inherit;
     background-size: 100%;
 }
 
 [data-theme="dark"] #aside-content>.card-widget.card-info {
-    background-image: url(https://s2.loli.net/2023/07/29/UbOtyKoJ3fDwdTL.png);
+    background-image: url(https://cdn.staticaly.com/gh/SMYB5431/markdown-picgo@main/img/2023/79.jpg);
     background-repeat: no-repeat;
     background-attachment: inherit;
     background-size: 100%;
