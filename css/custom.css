@@ -52,6 +52,7 @@ svg.icon {
 .menus_items .menus_item:nth-child(5) .menus_item_child {
     left: -90px;
 }
+
 az
 /* 黑夜霓虹灯2.0（纯CSS实现） */
 
@@ -369,11 +370,11 @@ h6::before {
 /* 鼠标样式 */
 #cursor {
     position: fixed;
-    width: 16px;
-    height: 16px;
+    width: 18px;
+    height: 18px;
     /* 这里改变跟随的底色 */
-    background: rgb(57, 197, 187);
-    border-radius: 8px;
+    background: rgb(235,93,197);
+    border-radius: 10px;
     opacity: 0.25;
     z-index: 10086;
     pointer-events: none;
