@@ -4475,7 +4475,7 @@ h1.page-title + .tag-cloud-list {
 .post-reward .reward-button .reward-main {
   position: absolute;
   bottom: 40px;
-  left: -55%;
+  left: -100%;
   z-index: 100;
   display: none;
   padding: 0 0 15px;
@@ -4505,7 +4505,7 @@ h1.page-title + .tag-cloud-list {
   position: absolute;
   right: 0;
   bottom: 2px;
-  left: 0;
+  left: 140px;
   margin: 0 auto;
   width: 0;
   height: 0;

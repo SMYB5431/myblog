@@ -1,8 +1,9 @@
 /* 修改字体样式 */
 @font-face {
     font-family: 'yourentoutouainiFont';
-    font-display: swap;
     src: url('/fonts/yourentoutouaini.ttf') format("truetype");
+    font-weight: bold;
+    font-display: swap;
 }
 
 
@@ -370,11 +371,11 @@ h6::before {
 /* 鼠标样式 */
 #cursor {
     position: fixed;
-    width: 18px;
-    height: 18px;
+    width: 16px;
+    height: 16px;
     /* 这里改变跟随的底色 */
-    background: rgb(235,93,197);
-    border-radius: 10px;
+    background: rgb(216, 11, 11);
+    border-radius: 8px;
     opacity: 0.25;
     z-index: 10086;
     pointer-events: none;
@@ -697,7 +698,7 @@ div#archive {
     }
 }
 
-/* 个人信息卡片背景图 */
+/* 个人信息卡片背景图
 [data-theme="light"] #aside-content>.card-widget.card-info {
     background-image: url(https://cdn.staticaly.com/gh/SMYB5431/markdown-picgo@main/img/2023/79.jpg);
     background-repeat: no-repeat;
@@ -710,7 +711,7 @@ div#archive {
     background-repeat: no-repeat;
     background-attachment: inherit;
     background-size: 100%;
-}
+} */
 
 
 .card-info-avatar .author-status-box {
